@@ -1,5 +1,6 @@
 # CUMULONIMBUS
-THE CONCEPT OF MULTI-CLOUD
+THE CONCEPT OF MULTI-CLOUD <br>
+![image](https://user-images.githubusercontent.com/99232551/174683795-fe277b3b-6893-4743-9ffa-f874b95a83b2.png)
 
 # Purpose
 A company or organization that can use different services or applications from different clouds <br>
